@@ -1,5 +1,5 @@
 # Vandersnickt_2025
-Electronic data accompanying the Letter to the Editor by Vandersnickt et al. (in prep)
+Electronic data accompanying the Letter to the Editor by Vandersnickt et al. (2025)
 
 Reference  Asteroseismic magnetic field detection in HD 192575  (Vandersnickt+, 2025)
 ================================================================================
